@@ -1,0 +1,10 @@
+.jumbotron  {
+    background-color: #080708 !important;
+    color: white !important;
+    border-bottom: 8px solid #FDCA40;
+}
+
+.button {
+    background-color: #FDCA40 !important;
+    color: black;
+}
